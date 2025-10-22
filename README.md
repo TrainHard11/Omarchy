@@ -1,5 +1,7 @@
-# Omarchy
+# OMARCHY taken steps
+
+
+## WIFI
 
 
 
-Hello from Windows
